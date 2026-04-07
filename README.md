@@ -9,7 +9,7 @@ This repository contains a modular ZSH configuration setup. It organizes your `z
 Clone this repository directly into the `~/.zsh-config` directory.
 
 ```bash
-git clone https://github.com/sehlceris/.zsh-config-public.git ~/.zsh-config
+git clone https://github.com/sehlceris/zsh-config-public.git ~/.zsh-config
 ```
 
 ### Run the Installation Script
